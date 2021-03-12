@@ -1,0 +1,83 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        .clearfix{
+            clear: both;
+        }
+
+        img{
+            margin-top: -5px;
+        }
+
+        .img2{
+            width: 100%;
+            background: url(../images/images/image_02.jpg);
+            margin-top: -5px;
+           
+        }
+        .img5{
+            width: 100%;
+            background-color: #0d92b8;
+            margin-top: -5px;
+        }
+        img{
+            width: 100%;
+        }
+        .videos{
+            width: 48%;
+            margin: 0 auto;
+            display: block;
+        }
+        .form{
+            width: 810px;
+            height: 593px;
+            background:#f9cf07;
+            margin: 0 auto;
+            
+        }
+
+        .first{
+            width: 100%;
+            height: 130px;
+            padding: 0 80px;
+            
+           
+        
+    
+            
+        }
+        .first>div{
+            width: 40%;
+            float: left; 
+            margin-top: 4%;
+            
+        }
+        .text{
+            height: 190px;
+           
+            padding: 0 80px;
+        }
+       
+        .agree{
+            height: 190px;
+            
+            padding: 0 80px;
+        }
+        .button{
+            margin-top: 10px;
+            padding-left: 50%;  
+        }
+        .form-4{
+            float: right;
+            padding: 0 80px;
+        }
+        
+       
+
+        
+        
+       
+  
